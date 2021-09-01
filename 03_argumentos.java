@@ -9,7 +9,7 @@ class AlunoResetComParametro {
     }
 }
 
-//salvar como AlunoReset.java
+//salvar como AlunoResetComParametro.java
 
 //compilar
 cd //colar o diretorio onde salvou o arquivo
