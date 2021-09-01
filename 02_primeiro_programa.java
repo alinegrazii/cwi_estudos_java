@@ -13,7 +13,7 @@ class AlunoReset {
 
 //compilar
 cd //colar o diretorio onde salvou o arquivo
-javac AlunoReset.java
+javac AlunoReset.java //vai gerar o .class na pasta
 
 //executar
 java AlunoReset
